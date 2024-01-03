@@ -5,3 +5,8 @@
 layout: home
 author_profile: true
 ---
+
+
+# Welcome This page is Under Construction...
+
+I will add some more content here soon(TM) and might add back some of the old blog posts but not 100% sure...
