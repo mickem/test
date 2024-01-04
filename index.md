@@ -9,8 +9,15 @@ author_profile: true
 ---
 
 
-# Michael Medin
+# Who is Michael Medin?
 
-This page is Under Construction...
+As a developer I develop various open source software in my spare time and various proprietary software in my not-so-spare time.
+Currently I am working for [Pricer](https://pricer.com) where I until recently was the architect of their "new platform" in charge of new Services and the IDP (Internal Development Platform), and more recently I am in charge of developing the new Label system where I focus a lot of building IoT and Edge software in Rust, Java and Typescript.
 
-I will add some more content here soon(TM) and might add back some of the old blog posts but not 100% sure...
+## Some open source projects I have written
+
+* [NSClient++](https://nsclient.org) The defacto standard monitoring agent for Nagios on Windows.
+* [Dakboard](https://github.com/mickem/medin.name.dakboard), A [DakBoard](https://dakboard.com) client for [Homey](https://homey.com). Which I use to show dashboards around the house.
+* [Temperature Manager](https://github.com/mickem/medin.name.temperature), A Temperature manager for [Homey](https://homey.com) which I use to orchestrate my heating system.
+
+This page is under construction so I will add some more content here soon(TM) and might add back some of the old blog posts but not 100% sure...
